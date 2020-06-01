@@ -1,1 +1,3 @@
 # ECC
+
+Just would like to remind myself that once upon a time I knew how to write C and could figure out the algorithm behind Error Correction Code.......
